@@ -21,3 +21,6 @@ A lightweight key and mouse presser for fast automated pressing.
 3. Enter CPS (or `-1` to hold).
 4. Press **Right Shift** to start/stop.
 5. Exit with `/ + Right Shift`.
+
+## Warning
+Setting the CPS too high can cause the key to continue being pressed! If this happens and you are stuck, delete the terminal window. Please submit an issue if this occurs.
