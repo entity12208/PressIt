@@ -23,4 +23,4 @@ A lightweight key and mouse presser for fast automated pressing.
 5. Exit with `/ + Right Shift`.
 
 ## Warning
-Setting the CPS too high can cause the key to continue being pressed! If this happens and you are stuck, delete the terminal window. Please submit an issue if this occurs.
+Setting the CPS too high can cause the key to continue being pressed! If this happens and you are stuck, delete the terminal window. Please submit an issue if this occurs. Also submit an issue if the status is incorrect.
