@@ -16,11 +16,14 @@ A lightweight key and mouse presser for fast automated pressing.
 
 ## Usage
 
-1. Run `pressit.py`.
-2. Type the key to press or `Click` for mouse left click.
-3. Enter CPS (or `-1` to hold).
-4. Press **Right Shift** to start/stop.
-5. Exit with `/ + Right Shift`.
+1. Install [Python](https://python.org).
+2. Run `pip install pynput`.
+3. Download and unzip this repository, or just download `pressit.py`.
+4. Double-click `pressit.py`.
+5. Type the key to press or `Click` for mouse left click.
+6. Enter CPS (or `-1` to hold).
+7. Press **Right Shift** to start/stop.
+8. Exit with `/ + Right Shift`.
 
 ## Warning
 Setting the CPS too high can cause the key to continue being pressed! If this happens and you are stuck, delete the terminal window. Please submit an issue if this occurs. Also submit an issue if the status is incorrect.
